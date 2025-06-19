@@ -110,7 +110,6 @@ const AdminDashboard = () => {
                 </SidebarMenu>
               </SidebarGroupContent>
             </SidebarGroup>
-
             <SidebarGroup>
               <SidebarGroupLabel>Configuration</SidebarGroupLabel>
               <SidebarGroupContent>
