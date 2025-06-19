@@ -63,12 +63,11 @@ const AdminDashboard = () => {
   return (
     <div className="min-h-screen flex bg-background">
       <SidebarProvider defaultOpen>
-        {/* Admin Sidebar */}
         <Sidebar className="border-r border-border">
           <SidebarHeader>
             <div className="p-4">
               <h1 className="text-xl font-bold gradient-text flex items-center">
-                SVR <span className="text-foreground font-normal ml-1">Admin</span>
+                AUSSIVO <span className="text-foreground font-normal ml-1">Admin</span>
               </h1>
             </div>
           </SidebarHeader>
